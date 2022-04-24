@@ -1,4 +1,4 @@
 # LeetCode
-My solutions to LeetCode questions.
+My solutions to LeetCode problems.
 
-Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Created using [LeetHub](https://github.com/QasimWani/LeetHub)!
