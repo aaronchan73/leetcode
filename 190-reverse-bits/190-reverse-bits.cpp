@@ -7,7 +7,7 @@ public:
         for (int i = 31; i >= 0; i--) {
             // remove last bit
             // truncate bits
-            // bit shift left 31 times
+            // bit shift left i times
             // set bit to leftside
             
             int lastBit = n % 2;
@@ -18,8 +18,3 @@ public:
         return ans;
     }
 };
-
-// 1010
-// lastBit = 0
-// 0101
-// 0000
