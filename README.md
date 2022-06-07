@@ -1,4 +1,4 @@
 # LeetCode
-My solutions to LeetCode problems in Python, C++, and SQL.
+My solutions to LeetCode problems.
 
 Created using [LeetHub](https://github.com/QasimWani/LeetHub)!
